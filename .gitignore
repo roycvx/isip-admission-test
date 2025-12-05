@@ -1,0 +1,59 @@
+############################
+#   Java + Maven Project   #
+############################
+
+# Maven target directory
+/target/
+
+# Maven files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+############################
+#       NetBeans IDE       #
+############################
+
+# NetBeans private config
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/Package-*.bash
+
+# Build directories
+/nbbuild/
+/nbdist/
+/dist/
+/build/
+
+# NetBeans metadata
+/nbactions.xml
+/nb-configuration.xml
+
+############################
+#         General          #
+############################
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs compatibility
+.idea/
+*.iml
+.vscode/
+
+# Cache and temporary files
+*.tmp
+*.bak
+*.swp
