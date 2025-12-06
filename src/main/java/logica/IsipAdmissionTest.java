@@ -1,13 +1,10 @@
-
 package logica;
+import igu.PantallaPrincipal;
 
-/**
- *
- * @author royel
- */
 public class IsipAdmissionTest {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        PantallaPrincipal pantalla_principal = new PantallaPrincipal();
+        pantalla_principal.mostrarPantalla();
     }
 }
